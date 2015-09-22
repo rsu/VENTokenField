@@ -26,8 +26,8 @@
 #import "VENToken.h"
 #import "VENBackspaceTextField.h"
 
-static const CGFloat VENTokenFieldDefaultVerticalInset      = 7.0;
-static const CGFloat VENTokenFieldDefaultHorizontalInset    = 15.0;
+static const CGFloat VENTokenFieldDefaultVerticalInset      = 0.0;
+static const CGFloat VENTokenFieldDefaultHorizontalInset    = 0.0;
 static const CGFloat VENTokenFieldDefaultToLabelPadding     = 5.0;
 static const CGFloat VENTokenFieldDefaultTokenPadding       = 2.0;
 static const CGFloat VENTokenFieldDefaultMinInputWidth      = 80.0;
